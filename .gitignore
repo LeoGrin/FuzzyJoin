@@ -1,0 +1,6 @@
+*.bin*
+.Rproj.user/
+.Rhistory
+.idea/
+__pycache__/
+*.Rproj
